@@ -1,0 +1,440 @@
+[
+  {
+    "id": 1,
+    "name": "Boeing",
+    "country": "США",
+    "founded": 1916,
+    "dissolved": null,
+    "models": [
+      {
+        "id": 101,
+        "name": "Boeing 747",
+        "productionStart": 1968,
+        "engines": 4,
+        "totalProduced": 1574
+      },
+      {
+        "id": 102,
+        "name": "Boeing 707",
+        "productionStart": 1957,
+        "engines": 4,
+        "totalProduced": 1010
+      },
+      {
+        "id": 103,
+        "name": "Boeing 737",
+        "productionStart": 1967,
+        "engines": 2,
+        "totalProduced": 10000
+      },
+      {
+        "id": 104,
+        "name": "Boeing 777",
+        "productionStart": 1993,
+        "engines": 2,
+        "totalProduced": 1700
+      },
+      {
+        "id": 105,
+        "name": "Boeing B-17 Flying Fortress",
+        "productionStart": 1936,
+        "engines": 4,
+        "totalProduced": 12731
+      },
+      {
+        "id": 106,
+        "name": "Boeing 787 Dreamliner",
+        "productionStart": 2007,
+        "engines": 2,
+        "totalProduced": 1100
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Airbus",
+    "country": "Франція",
+    "founded": 1970,
+    "dissolved": null,
+    "models": [
+      {
+        "id": 201,
+        "name": "Airbus A320",
+        "productionStart": 1984,
+        "engines": 2,
+        "totalProduced": 9000
+      },
+      {
+        "id": 202,
+        "name": "Airbus A380",
+        "productionStart": 2003,
+        "engines": 4,
+        "totalProduced": 251
+      },
+      {
+        "id": 203,
+        "name": "Airbus A300",
+        "productionStart": 1969,
+        "engines": 2,
+        "totalProduced": 816
+      },
+      {
+        "id": 204,
+        "name": "Airbus A330",
+        "productionStart": 1987,
+        "engines": 2,
+        "totalProduced": 1800
+      },
+      {
+        "id": 205,
+        "name": "Airbus A350",
+        "productionStart": 2010,
+        "engines": 2,
+        "totalProduced": 610
+      },
+      {
+        "id": 206,
+        "name": "Airbus A220",
+        "productionStart": 2008,
+        "engines": 2,
+        "totalProduced": 300
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Lockheed",
+    "country": "США",
+    "founded": 1912,
+    "dissolved": 1995,
+    "models": [
+      {
+        "id": 301,
+        "name": "Lockheed SR-71 Blackbird",
+        "productionStart": 1964,
+        "engines": 2,
+        "totalProduced": 32
+      },
+      {
+        "id": 302,
+        "name": "Lockheed C-130 Hercules",
+        "productionStart": 1954,
+        "engines": 4,
+        "totalProduced": 2500
+      },
+      {
+        "id": 303,
+        "name": "Lockheed U-2",
+        "productionStart": 1955,
+        "engines": 1,
+        "totalProduced": 86
+      },
+      {
+        "id": 304,
+        "name": "Lockheed P-38 Lightning",
+        "productionStart": 1939,
+        "engines": 2,
+        "totalProduced": 10037
+      },
+      {
+        "id": 305,
+        "name": "Lockheed Constellation",
+        "productionStart": 1943,
+        "engines": 4,
+        "totalProduced": 856
+      },
+      {
+        "id": 306,
+        "name": "Lockheed F-104 Starfighter",
+        "productionStart": 1956,
+        "engines": 1,
+        "totalProduced": 2578
+      },
+      {
+        "id": 307,
+        "name": "Lockheed L-1011 TriStar",
+        "productionStart": 1968,
+        "engines": 3,
+        "totalProduced": 250
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Douglas Aircraft Company",
+    "country": "США",
+    "founded": 1921,
+    "dissolved": 1967,
+    "models": [
+      {
+        "id": 401,
+        "name": "Douglas DC-3",
+        "productionStart": 1935,
+        "engines": 2,
+        "totalProduced": 16079
+      },
+      {
+        "id": 402,
+        "name": "Douglas DC-8",
+        "productionStart": 1958,
+        "engines": 4,
+        "totalProduced": 556
+      },
+      {
+        "id": 403,
+        "name": "Douglas A-4 Skyhawk",
+        "productionStart": 1954,
+        "engines": 1,
+        "totalProduced": 2960
+      },
+      {
+        "id": 404,
+        "name": "Douglas DC-6",
+        "productionStart": 1946,
+        "engines": 4,
+        "totalProduced": 704
+      },
+      {
+        "id": 405,
+        "name": "Douglas SBD Dauntless",
+        "productionStart": 1940,
+        "engines": 1,
+        "totalProduced": 5936
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Supermarine",
+    "country": "Велика Британія",
+    "founded": 1913,
+    "dissolved": 1960,
+    "models": [
+      {
+        "id": 501,
+        "name": "Supermarine Spitfire",
+        "productionStart": 1936,
+        "engines": 1,
+        "totalProduced": 20351
+      },
+      {
+        "id": 502,
+        "name": "Supermarine Seafire",
+        "productionStart": 1942,
+        "engines": 1,
+        "totalProduced": 2646
+      },
+      {
+        "id": 503,
+        "name": "Supermarine S.6B",
+        "productionStart": 1931,
+        "engines": 1,
+        "totalProduced": 2
+      },
+      {
+        "id": 504,
+        "name": "Supermarine Walrus",
+        "productionStart": 1935,
+        "engines": 1,
+        "totalProduced": 740
+      },
+      {
+        "id": 505,
+        "name": "Supermarine Swift",
+        "productionStart": 1952,
+        "engines": 1,
+        "totalProduced": 197
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Antonov",
+    "country": "Україна / СРСР",
+    "founded": 1946,
+    "dissolved": null,
+    "models": [
+      {
+        "id": 601,
+        "name": "Ан-2",
+        "productionStart": 1946,
+        "engines": 1,
+        "totalProduced": 18000
+      },
+      {
+        "id": 602,
+        "name": "Ан-22 Антей",
+        "productionStart": 1965,
+        "engines": 4,
+        "totalProduced": 68
+      },
+      {
+        "id": 603,
+        "name": "Ан-124 Руслан",
+        "productionStart": 1982,
+        "engines": 4,
+        "totalProduced": 55
+      },
+      {
+        "id": 604,
+        "name": "Ан-225 Мрія",
+        "productionStart": 1988,
+        "engines": 6,
+        "totalProduced": 1
+      },
+      {
+        "id": 605,
+        "name": "Ан-26",
+        "productionStart": 1969,
+        "engines": 2,
+        "totalProduced": 1398
+      },
+      {
+        "id": 606,
+        "name": "Ан-72",
+        "productionStart": 1977,
+        "engines": 2,
+        "totalProduced": 195
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Messerschmitt",
+    "country": "Німеччина",
+    "founded": 1927,
+    "dissolved": 1945,
+    "models": [
+      {
+        "id": 701,
+        "name": "Messerschmitt Bf 109",
+        "productionStart": 1937,
+        "engines": 1,
+        "totalProduced": 33984
+      },
+      {
+        "id": 702,
+        "name": "Messerschmitt Me 262",
+        "productionStart": 1942,
+        "engines": 2,
+        "totalProduced": 1430
+      },
+      {
+        "id": 703,
+        "name": "Messerschmitt Bf 110",
+        "productionStart": 1938,
+        "engines": 2,
+        "totalProduced": 6170
+      },
+      {
+        "id": 704,
+        "name": "Messerschmitt Me 163 Komet",
+        "productionStart": 1944,
+        "engines": 1,
+        "totalProduced": 370
+      },
+      {
+        "id": 705,
+        "name": "Messerschmitt Me 410",
+        "productionStart": 1942,
+        "engines": 2,
+        "totalProduced": 1160
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Concorde (Aérospatiale / BAC)",
+    "country": "Франція / Велика Британія",
+    "founded": 1962,
+    "dissolved": 2003,
+    "models": [
+      {
+        "id": 801,
+        "name": "Concorde",
+        "productionStart": 1969,
+        "engines": 4,
+        "totalProduced": 20
+      },
+      {
+        "id": 802,
+        "name": "Aérospatiale Caravelle",
+        "productionStart": 1955,
+        "engines": 2,
+        "totalProduced": 282
+      },
+      {
+        "id": 803,
+        "name": "BAC One-Eleven",
+        "productionStart": 1961,
+        "engines": 2,
+        "totalProduced": 244
+      },
+      {
+        "id": 804,
+        "name": "Aérospatiale Corvette",
+        "productionStart": 1970,
+        "engines": 2,
+        "totalProduced": 40
+      },
+      {
+        "id": 805,
+        "name": "BAC TSR-2",
+        "productionStart": 1964,
+        "engines": 2,
+        "totalProduced": 1
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Fokker",
+    "country": "Нідерланди",
+    "founded": 1912,
+    "dissolved": 1996,
+    "models": [
+      {
+        "id": 901,
+        "name": "Fokker Dr.I",
+        "productionStart": 1917,
+        "engines": 1,
+        "totalProduced": 320
+      },
+      {
+        "id": 902,
+        "name": "Fokker D.VII",
+        "productionStart": 1918,
+        "engines": 1,
+        "totalProduced": 3300
+      },
+      {
+        "id": 903,
+        "name": "Fokker F27 Friendship",
+        "productionStart": 1955,
+        "engines": 2,
+        "totalProduced": 786
+      },
+      {
+        "id": 904,
+        "name": "Fokker 100",
+        "productionStart": 1986,
+        "engines": 2,
+        "totalProduced": 283
+      },
+      {
+        "id": 905,
+        "name": "Fokker F.VIIb/3m",
+        "productionStart": 1925,
+        "engines": 3,
+        "totalProduced": 145
+      },
+      {
+        "id": 906,
+        "name": "Fokker 50",
+        "productionStart": 1983,
+        "engines": 2,
+        "totalProduced": 213
+      }
+    ]
+  }
+]
